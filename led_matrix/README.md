@@ -10,11 +10,12 @@ A compact LED matrix prototyping board driven by an **Arduino Nano** using **cha
 
 ## Preview
 
-### 3D View
-> *Coming soon*
+### PCB View
+![PCB View](./v1/img/led_mat_v1.png)
+> Component placement and routing in progress.
 
 ### Schematic
-> *Coming soon*
+![Schematic](./v1/img/led_mat_v1.svg)
 
 ## Hardware
 | Component | Details |
