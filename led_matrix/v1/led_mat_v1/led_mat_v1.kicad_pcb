@@ -534,7 +534,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "13dda84c-b938-4a6c-af0a-61ed783671f6")
-		(at 86.68 114.808)
+		(at 110.898 43.152)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R10"
@@ -1130,7 +1130,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "18ca68ad-1099-4782-b54a-cf97ef949ca8")
-		(at 84.23 116.558)
+		(at 108.448 44.902)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R7"
@@ -5278,7 +5278,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical_SMD_Pin1Left"
 		(layer "F.Cu")
 		(uuid "38406a9b-8d12-4589-b243-30281992ce22")
-		(at 132.334 47.752 180)
+		(at 117.602 47.244 180)
 		(descr "surface-mounted straight socket strip, 1x15, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated")
 		(tags "Surface mounted socket strip SMD 1x15 2.54mm single row style1 pin1 left")
 		(property "Reference" "J2"
@@ -8249,13 +8249,13 @@
 	(footprint "Module:Arduino_Nano"
 		(layer "F.Cu")
 		(uuid "523534d0-34e9-49cf-b2b7-ee4bd3e9f311")
-		(at 138.694 30.48)
+		(at 123.962 29.972)
 		(descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino Nano")
 		(property "Reference" "A1"
 			(at 7.62 -5.08 0)
 			(layer "F.SilkS")
-			(uuid "04e1a8f8-2425-48a8-8f89-8751101ac6f2")
+			(uuid "0a881f76-0568-4328-abf1-c413cef174ab")
 			(effects
 				(font
 					(size 1 1)
@@ -8266,7 +8266,7 @@
 		(property "Value" "Arduino_Nano_Every"
 			(at 8.89 19.05 90)
 			(layer "F.Fab")
-			(uuid "7fe22835-0600-4aee-acfc-2c0a9685df60")
+			(uuid "40aaed05-319a-4259-aba9-3311f39d891c")
 			(effects
 				(font
 					(size 1 1)
@@ -8279,7 +8279,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "036222cb-bb57-4f18-9900-3ec21bf5e49d")
+			(uuid "af6a1a56-98f5-469a-aced-b0d0f1f70535")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8292,7 +8292,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a33dc6fb-08b8-4641-84e6-5f0b244a2bd6")
+			(uuid "5026dc69-98c0-4f49-99d2-b9aaa1cde3c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10104,7 +10104,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "5d4f1349-50e0-4ec8-9793-75cfb5e24d63")
-		(at 81.78 116.558)
+		(at 105.998 44.902)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
@@ -12476,7 +12476,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "6fed0b24-b2b8-4469-a7a2-b789011dd2c2")
-		(at 72.589 111.277 90)
+		(at 105.156 39.878 90)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R1"
@@ -13738,7 +13738,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "7d4172c5-0cc0-4a1f-b67b-b9dd63e37403")
-		(at 81.78 118.308)
+		(at 105.998 46.652)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R4"
@@ -17442,7 +17442,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "af33a8b8-ebc6-42f9-9bda-fb9f2ebf6e83")
-		(at 72.589 113.817 90)
+		(at 105.156 42.418 90)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R2"
@@ -20036,7 +20036,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "c8b08a87-810b-4f6d-b182-78f5f010539f")
-		(at 84.23 114.808)
+		(at 108.448 43.152)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R6"
@@ -20632,7 +20632,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "cd05102c-cfc2-42f6-a7b3-7583e303939a")
-		(at 86.68 113.058)
+		(at 110.898 41.402)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R9"
@@ -22116,7 +22116,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "d8472fb8-9281-43ec-bde7-8808b3efc200")
-		(at 84.23 118.308)
+		(at 108.448 46.652)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R8"
@@ -23378,7 +23378,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "dd41ac46-ae02-4264-9a7c-3d1b37f8b083")
-		(at 86.68 116.558)
+		(at 110.898 44.902)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R11"
@@ -24196,7 +24196,7 @@
 	(footprint "Resistor_SMD:R_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "e063dd97-2c43-41ae-85f7-779189fa3b64")
-		(at 84.23 113.058)
+		(at 108.448 41.402)
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "resistor")
 		(property "Reference" "R5"
@@ -25236,7 +25236,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical_SMD_Pin1Left"
 		(layer "F.Cu")
 		(uuid "f27e9003-42f8-4213-a8d1-32795a86fb7b")
-		(at 159.384 48.006 180)
+		(at 144.652 47.498 180)
 		(descr "surface-mounted straight socket strip, 1x15, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated")
 		(tags "Surface mounted socket strip SMD 1x15 2.54mm single row style1 pin1 left")
 		(property "Reference" "J1"
@@ -28869,6 +28869,18 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 55.118 23.876)
+		(end 149.86 95.979596)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(locked yes)
+		(layer "Edge.Cuts")
+		(uuid "62ee4a72-8160-4fab-ab82-d2b4d1702a31")
 	)
 	(group ""
 		(uuid "4e70f763-55b0-4c04-a8ad-04e45df49f9e")
