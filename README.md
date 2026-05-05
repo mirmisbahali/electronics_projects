@@ -4,15 +4,15 @@ A compact LED matrix prototyping board driven by an **Arduino Nano** using **cha
 
 ## Status: 🚧 In Progress
 - [x] Schematic complete
-- [ ] PCB layout (component placement in progress)
-- [ ] Fabrication
+- [x] PCB layout complete
+- [x] Fabrication files generated (JLCPCB) — parts ordered
 - [ ] Testing
 
 ## Preview
 
 ### PCB View
 ![PCB View](./led_matrix/v1/img/led_mat_v1.png)
-> Component placement and routing in progress.
+> v1 design complete. Parts ordered from JLCPCB.
 
 ### Schematic
 ![Schematic](./led_matrix/v1/img/led_mat_v1.svg)
