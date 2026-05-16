@@ -1,0 +1,11 @@
+# KiCad lock files
+~*.lck
+
+# KiCad local history (contains nested .git)
+pcb_business_card_v1/.history/
+
+# Backup ZIPs (redundant with git history)
+pcb_business_card_v1/pcb_business_card_v1-backups/
+
+# STM32CubeIDE workspace metadata
+code/.metadata/
