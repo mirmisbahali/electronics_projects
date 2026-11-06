@@ -1,0 +1,564 @@
+(footprint "CR2032_PCB_Spring_Bigfoot_0.8mm_RightEntry"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Prototype CR2032 PCB spring holder; Bigfoot outline; 0.8mm FR4; + face front; right entry over retained bridge. No paste. Frequent removal requires physical validation.")
+	(tags "CR2032 battery spring PCB cutout 0.8mm Bigfoot")
+	(property "Reference" "REF**"
+		(at -6 -12.2 0)
+		(layer "F.SilkS")
+		(uuid "107d97e6-5cb7-40f7-ba45-487d9869db7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CR2032_PCB_Spring_Bigfoot_0.8mm_RightEntry"
+		(at -2 13.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9b84a8e-9699-4268-bb40-8b413cb91693")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9d2549c-1594-483b-a2be-f7ad92f6d419")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a227e8ac-a14e-4dc4-97a0-4c85c1a5c292")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy 0 -4.55) (xy -7.5 -4.55) (xy -8.945615 -5.511205) (xy -8.95 -5.51559) (xy -8.95 -7.45) (xy -7.48793 -8.459451)
+			(xy 0 -8.468303)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layers "F.Cu" "F.Mask")
+		(uuid "a2661719-e3b3-42aa-95f9-76ffb37ae0c9")
+	)
+	(fp_poly
+		(pts
+			(xy 0.001316 8.45) (xy -7.498684 8.45) (xy -8.944299 7.488795) (xy -8.948684 7.48441) (xy -8.948684 5.55)
+			(xy -7.486614 4.540549) (xy 0.001316 4.531697)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layers "F.Cu" "F.Mask")
+		(uuid "aed4cdb4-8d7f-46fd-a2d0-a43caf19b272")
+	)
+	(fp_line
+		(start -14 -9.5)
+		(end -14 -3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "16a64fd3-e0b2-4ed8-b9fb-addf53fd547e")
+	)
+	(fp_line
+		(start -14 3)
+		(end -14 9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6f2c37bb-1715-4dfd-ace7-edbc804bd60a")
+	)
+	(fp_line
+		(start -13 -2)
+		(end 2 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "48217f14-7fed-456d-9202-79526c6171df")
+	)
+	(fp_line
+		(start -13 10.5)
+		(end 9 10.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5cf64451-4e46-43c2-a062-e37a1c5011ca")
+	)
+	(fp_line
+		(start -9 -7.5)
+		(end -7.5 -8.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "459f7d54-59fd-49e5-b895-802c64febcdd")
+	)
+	(fp_line
+		(start -9 -5.5)
+		(end -9 -7.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f951d5eb-01ac-425e-8526-aa97cf53d042")
+	)
+	(fp_line
+		(start -9 5.5)
+		(end -7.5 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "78005ff9-5234-46b7-8732-f60a3b59b783")
+	)
+	(fp_line
+		(start -9 7.5)
+		(end -9 5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0407fe6b-79b7-4103-a0ec-1bf6ef512eec")
+	)
+	(fp_line
+		(start -7.5 -8.5)
+		(end 9 -8.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "05bb81a2-730f-45fe-9690-4448f2214768")
+	)
+	(fp_line
+		(start -7.5 -4.5)
+		(end -9 -5.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "24482556-5d44-4f7b-9430-475fe8919c0f")
+	)
+	(fp_line
+		(start -7.5 4.5)
+		(end 9 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9eadf059-eb95-45e8-a0e4-8151dff20f6f")
+	)
+	(fp_line
+		(start -7.5 8.5)
+		(end -9 7.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "60908be5-4913-43b0-b336-0bb89f0cc1ef")
+	)
+	(fp_line
+		(start 2 -2)
+		(end 3.5 -1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b4b92d4c-6cd1-4ada-9258-63a5896a61a6")
+	)
+	(fp_line
+		(start 2 2)
+		(end -13 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0d94866a-4573-4f25-a0ff-180a37766559")
+	)
+	(fp_line
+		(start 3.5 -1)
+		(end 3.5 1)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "29da39fa-bdc5-4981-8593-6284760c8e4a")
+	)
+	(fp_line
+		(start 3.5 1)
+		(end 2 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "68e67eea-5758-4944-9fa0-d7bab5380d72")
+	)
+	(fp_line
+		(start 9 -10.5)
+		(end -13 -10.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "660ddca0-469c-4a35-b4ed-4935278bfc58")
+	)
+	(fp_line
+		(start 9 -4.5)
+		(end -7.5 -4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6d25e8b5-d263-41a0-a420-356d1c77fe43")
+	)
+	(fp_line
+		(start 9 8.5)
+		(end -7.5 8.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e7b78e8a-e313-4fb2-91b0-c09d316ad68b")
+	)
+	(fp_line
+		(start 10 3.5)
+		(end 10 -3.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "af841ba5-e5fc-47b6-91a8-ea4781403538")
+	)
+	(fp_arc
+		(start -14 -9.5)
+		(mid -13.707107 -10.207107)
+		(end -13 -10.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a07c9e86-ffb3-4334-94d7-86fe287dd15f")
+	)
+	(fp_arc
+		(start -14 3)
+		(mid -13.707107 2.292893)
+		(end -13 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "28b2257c-6a7e-4013-b23b-40ac9b35e1b3")
+	)
+	(fp_arc
+		(start -13 -2)
+		(mid -13.707107 -2.292893)
+		(end -14 -3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "88a0cddb-2fa8-4b4d-881b-c05ddff6ee62")
+	)
+	(fp_arc
+		(start -13 10.5)
+		(mid -13.707107 10.207107)
+		(end -14 9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "830b97fd-ab1f-4a6f-8590-20f2a833e5d5")
+	)
+	(fp_arc
+		(start 9 -10.5)
+		(mid 9.707107 -10.207107)
+		(end 10 -9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "23e05786-ff1c-465f-b621-b813ee362608")
+	)
+	(fp_arc
+		(start 9 -4.5)
+		(mid 9.707107 -4.207107)
+		(end 10 -3.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5f44baac-9bfb-4ab8-84b3-0d5887942597")
+	)
+	(fp_arc
+		(start 9 8.5)
+		(mid 9.707107 8.792893)
+		(end 10 9.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "643ee4fe-e271-4e0e-8757-b0de4927a7dd")
+	)
+	(fp_arc
+		(start 10 -9.5)
+		(mid 9.707107 -8.792893)
+		(end 9 -8.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6be72aa7-5629-41c1-94ad-bc779aa5dd2d")
+	)
+	(fp_arc
+		(start 10 3.5)
+		(mid 9.707107 4.207107)
+		(end 9 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c95f5f99-2d30-4da8-b3d4-5f9996d88c1f")
+	)
+	(fp_arc
+		(start 10 9.5)
+		(mid 9.707107 10.207107)
+		(end 9 10.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9496872e-41d9-468f-8b4f-4c067586f91d")
+	)
+	(fp_rect
+		(start -16 -11.25)
+		(end 12.25 11.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "a3df2f7c-328f-47ac-94cf-a33824c9cf38")
+	)
+	(fp_rect
+		(start -16 -11.25)
+		(end 12.25 11.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "d4883e05-05a8-4774-a36b-d0bb3fa0249d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "0c7b8295-85b3-42aa-ad35-fc001592545d")
+	)
+	(fp_text user "CR2032 + UP"
+		(at -5 0 0)
+		(layer "F.SilkS")
+		(uuid "a50d9339-c2f5-419c-98b0-714e0cbebfd4")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.14)
+			)
+		)
+	)
+	(fp_text user "0.8mm PCB"
+		(at -5 12.1 0)
+		(layer "F.SilkS")
+		(uuid "898b3272-a716-4099-852b-d06940c734c4")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(fp_text user "CELL CENTRE / PROTOTYPE"
+		(at 0 -14 0)
+		(layer "Dwgs.User")
+		(uuid "dc5a8b95-245f-4d2d-ae03-9678e580eae1")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(fp_text user "RIGHT ENTRY"
+		(at 5 12.1 0)
+		(layer "F.Fab")
+		(uuid "297c5782-be23-4981-b46f-dca59da22260")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at -15 0)
+		(size 0.4 0.4)
+		(layers "B.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_line
+				(start 0 0)
+				(end 11 0)
+				(width 1)
+			)
+		)
+		(uuid "9c27f15e-0d7c-444b-8846-802c89588e86")
+	)
+	(pad "1" smd custom
+		(at -4 0)
+		(size 1 1)
+		(layers "B.Cu" "B.Mask")
+		(solder_mask_margin 0)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -4.5 -1.95) (xy 6 -1.95) (xy 7.4 -1) (xy 7.4 1) (xy 6 1.95) (xy -4.5 1.95)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "11a76980-cd12-41bd-85f5-110a4604675a")
+	)
+	(pad "2" smd custom
+		(at 11.025 0)
+		(size 1 1)
+		(layers "F.Cu")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_line
+				(start 0 -6.5125)
+				(end 0 6.5125)
+				(width 1)
+			)
+			(gr_line
+				(start 0 6.55)
+				(end -11.025 6.55)
+				(width 1)
+			)
+			(gr_line
+				(start 0 -6.5)
+				(end -11.025 -6.5)
+				(width 1)
+			)
+		)
+		(uuid "56491879-c923-4ad9-b355-e1d14a737f7e")
+	)
+	(zone
+		(layers "F.Cu" "B.Cu")
+		(uuid "5a208147-ec70-458d-9399-bb9dd94960d8")
+		(name "CR2032_SPRINGS_NO_FILL_OR_VIAS")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.3)
+			(thermal_bridge_width 0.3)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy -16 -11.25) (xy 12.25 -11.25) (xy 12.25 11.25) (xy -16 11.25)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

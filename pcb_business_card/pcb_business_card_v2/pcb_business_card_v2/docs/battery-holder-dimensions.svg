@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#334155"/></marker></defs>
+<rect width="1500" height="980" fill="#f8fafc"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#172b3a">
+<text x="55" y="55" font-size="32" font-weight="bold">CR2032 PCB spring holder</text>
+<text x="55" y="90" font-size="18">0.8 mm FR-4 · right entry · positive face toward the component side</text>
+<text x="55" y="122" font-size="17" fill="#a34c12">PROTOTYPE A — frequent-removal durability requires physical testing</text>
+<text x="55" y="166" font-size="21" font-weight="bold">Card placement · front view</text>
+<text x="855" y="166" font-size="21" font-weight="bold">Holder detail · both copper faces overlaid</text>
+
+<rect x="55" y="210" width="684.8" height="431.84" rx="24" fill="#17684e" stroke="#124632" stroke-width="2"/>
+<g transform="translate(625.8 324.0) scale(8)">
+<path d="M 3.5 1.0 L2.0 2.0 L-13.0 2.0 A1 1 0 0 0 -14.0 3.0 L-14.0 9.5 A1 1 0 0 0 -13.0 10.5 L9.0 10.5 A1 1 0 0 0 10.0 9.5 A1 1 0 0 0 9.0 8.5 L-7.5 8.5 L-9.0 7.5 L-9.0 5.5 L-7.5 4.5 L9.0 4.5 A1 1 0 0 0 10.0 3.5 L10.0 -3.5 A1 1 0 0 0 9.0 -4.5 L-7.5 -4.5 L-9.0 -5.5 L-9.0 -7.5 L-7.5 -8.5 L9.0 -8.5 A1 1 0 0 0 10.0 -9.5 A1 1 0 0 0 9.0 -10.5 L-13.0 -10.5 A1 1 0 0 0 -14.0 -9.5 L-14.0 -3.0 A1 1 0 0 0 -13.0 -2.0 L2.0 -2.0 L3.5 -1.0 L3.5 1.0 Z" fill="#f8fafc" stroke="#162f28" stroke-width="0.08"/>
+<path d="M-15 0 H-4" fill="none" stroke="#4c88be" stroke-width="0.4" opacity="0.65"/>
+<path d="M0 -6.5 H11.025 V6.5 H0 M0 -6.5 H-11.025 M0 6.5 H-11.025" fill="none" stroke="#ae7951" stroke-width="1" opacity="0.7"/>
+<path d="M-8.5 -1.45 H1.835 L2.95 -0.706 V0.706 L1.835 1.45 H-8.5 Z" fill="#72b7ed"/>
+<path d="M0 -5.05 L-7.335 -5.05 L-8.45 -5.794 V-7.206 L-7.335 -7.95 H0 Z" fill="#f3c667"/>
+<path d="M0 5.05 L-7.335 5.05 L-8.45 5.794 V7.206 L-7.335 7.95 H0 Z" fill="#f3c667"/>
+<circle cx="0" cy="0" r="10" fill="none" stroke="#cfdeed" stroke-width="0.12" stroke-dasharray="0.55 0.4"/>
+<path d="M-0.5 0 H0.5 M0 -0.5 V0.5" stroke="#ffffff" stroke-width="0.1"/>
+</g>
+<line x1="55" y1="667.8399999999999" x2="739.8" y2="667.8399999999999" stroke="#334155" stroke-width="1.4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="397.4" y="693.8399999999999" font-size="17" text-anchor="middle">85.60 mm</text>
+<text x="397.4" y="721.8399999999999" font-size="17" text-anchor="middle">53.98 mm high · R3 corners · 0.80 mm thick</text>
+<text x="397.4" y="749.8399999999999" font-size="16" text-anchor="middle">Cell centre: 71.35 mm right, 14.25 mm down from top-left</text>
+<rect x="824" y="204" width="562.5" height="450" fill="#17684e" stroke="#124632" stroke-width="1"/>
+<g transform="translate(1130 420) scale(18)">
+<path d="M 3.5 1.0 L2.0 2.0 L-13.0 2.0 A1 1 0 0 0 -14.0 3.0 L-14.0 9.5 A1 1 0 0 0 -13.0 10.5 L9.0 10.5 A1 1 0 0 0 10.0 9.5 A1 1 0 0 0 9.0 8.5 L-7.5 8.5 L-9.0 7.5 L-9.0 5.5 L-7.5 4.5 L9.0 4.5 A1 1 0 0 0 10.0 3.5 L10.0 -3.5 A1 1 0 0 0 9.0 -4.5 L-7.5 -4.5 L-9.0 -5.5 L-9.0 -7.5 L-7.5 -8.5 L9.0 -8.5 A1 1 0 0 0 10.0 -9.5 A1 1 0 0 0 9.0 -10.5 L-13.0 -10.5 A1 1 0 0 0 -14.0 -9.5 L-14.0 -3.0 A1 1 0 0 0 -13.0 -2.0 L2.0 -2.0 L3.5 -1.0 L3.5 1.0 Z" fill="#f8fafc" stroke="#162f28" stroke-width="0.08"/>
+<path d="M-15 0 H-4" fill="none" stroke="#4c88be" stroke-width="0.4" opacity="0.65"/>
+<path d="M0 -6.5 H11.025 V6.5 H0 M0 -6.5 H-11.025 M0 6.5 H-11.025" fill="none" stroke="#ae7951" stroke-width="1" opacity="0.7"/>
+<path d="M-8.5 -1.45 H1.835 L2.95 -0.706 V0.706 L1.835 1.45 H-8.5 Z" fill="#72b7ed"/>
+<path d="M0 -5.05 L-7.335 -5.05 L-8.45 -5.794 V-7.206 L-7.335 -7.95 H0 Z" fill="#f3c667"/>
+<path d="M0 5.05 L-7.335 5.05 L-8.45 5.794 V7.206 L-7.335 7.95 H0 Z" fill="#f3c667"/>
+<circle cx="0" cy="0" r="10" fill="none" stroke="#cfdeed" stroke-width="0.12" stroke-dasharray="0.55 0.4"/>
+<path d="M-0.5 0 H0.5 M0 -0.5 V0.5" stroke="#ffffff" stroke-width="0.1"/>
+<g font-size="0.9" fill="#172b3a" text-anchor="middle"><text x="-4" y="0.3">1 · + · B.Cu</text><text x="0" y="-5.3">2 · −</text><text x="0" y="5.9">2 · −</text></g>
+</g>
+<line x1="878" y1="231.0" x2="878" y2="184.20000000000002" stroke="#334155" stroke-width="1.4" />
+<line x1="1310" y1="231.0" x2="1310" y2="184.20000000000002" stroke="#334155" stroke-width="1.4" />
+<line x1="878" y1="189.6" x2="1310" y2="189.6" stroke="#334155" stroke-width="1.4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="1094" y="184.20000000000002" font-size="16" text-anchor="middle">24.00 mm</text>
+<line x1="847.4000000000001" y1="231.0" x2="847.4000000000001" y2="609.0" stroke="#334155" stroke-width="1.4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text transform="translate(840.2 420) rotate(-90)" font-size="16" text-anchor="middle" fill="#fff">21.00 mm</text>
+<line x1="1310" y1="679.2" x2="1386.5" y2="679.2" stroke="#334155" stroke-width="1.4" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="1348.25" y="702.5999999999999" font-size="16" text-anchor="middle">4.25 mm</text>
+<text x="1348.25" y="724.2" font-size="15" text-anchor="middle">support bridge</text>
+<line x1="1460" y1="420" x2="1398" y2="420" stroke="#334155" stroke-width="1.4" marker-end="url(#arrow)"/>
+<text x="1438" y="388" font-size="16" text-anchor="middle">Insert</text>
+<text x="1438" y="405" font-size="14" text-anchor="middle">from right</text>
+<text x="1090" y="682" font-size="16" text-anchor="middle">Dashed circle: nominal Ø20 mm cell</text>
+<rect x="55" y="790" width="1390" height="145" rx="12" fill="#e6edf3"/>
+<text x="75" y="824" font-size="19" font-weight="bold">Contact arrangement</text>
+<text x="75" y="855" font-size="17">Blue: pad 1, underside of centre arm, contacting the cell’s positive face.</text>
+<text x="75" y="883" font-size="17">Gold: pad 2, upper surfaces of the two lower arms, contacting the negative face.</text>
+<text x="75" y="911" font-size="16">Coloured thin paths are masked copper. White areas are routed out. No solder paste on contacts.</text>
+<text x="55" y="960" font-size="14">Mechanical outline: Dennis Kaandorp / Bigfoot Creations. Contact adaptation: project prototype. Dimensions in mm; drawing not to print scale.</text>
+</g></svg>

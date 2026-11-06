@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\mirmi\\\\Documents\\\\projects\\\\electronics_projects\\\\pcb_business_card\\\\pcb_business_card_v1\" -Recurse -Force)",
+      "Bash(Select-Object FullName, Length, Extension)",
+      "Bash(Sort-Object FullName)"
+    ]
+  }
+}
