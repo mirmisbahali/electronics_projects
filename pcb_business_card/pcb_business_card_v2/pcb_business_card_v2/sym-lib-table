@@ -1,0 +1,4 @@
+(sym_lib_table
+ (version 7)
+ (lib (name "ST LIS2DW12TR")(type "KiCad")(uri "${KIPRJMOD}/BusinessCard.kicad_sym")(options "")(descr "Project-local corrected accelerometer symbol"))
+)
